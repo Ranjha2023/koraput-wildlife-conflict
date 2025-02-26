@@ -5,20 +5,55 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Human-Wildlife Conflict Hotspots</title>
     
-    <!-- Leaflet CSS -->
+    <!-- ✅ Load Leaflet CSS -->
     <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css">
     
-    <!-- Custom CSS -->
+    <!-- ✅ Custom Styles -->
     <link rel="stylesheet" href="style.css">
+    <style>
+        /* Ensure map is properly displayed */
+        #map {
+            height: 600px;
+            width: 100%;
+            margin-top: 10px;
+            border: 2px solid black;
+        }
+
+        /* Style for the filter section */
+        div {
+            margin-bottom: 10px;
+        }
+    </style>
 </head>
 <body>
     <h1>Koraput Human-Wildlife Conflict Hotspots</h1>
+
+    <!-- ✅ Filter Controls -->
+    <div>
+        <label for="yearFilter">Filter by Year:</label>
+        <select id="yearFilter">
+            <option value="all">All Years</option>
+        </select>
+    
+        <label for="impactFilter">Filter by Impact:</label>
+        <select id="impactFilter">
+            <option value="all">All Levels</option>
+            <option value="High">High</option>
+            <option value="Medium">Medium</option>
+            <option value="Low">Low</option>
+        </select>
+    </div>
+    
+    <!-- ✅ Map Container -->
     <div id="map"></div>
 
-    <!-- Leaflet JS -->
+    <!-- ✅ Load Leaflet First -->
     <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
 
-    <!-- Custom JavaScript -->
+    <!-- ✅ Load Leaflet Heatmap Plugin AFTER Leaflet -->
+    <script src="https://unpkg.com/leaflet.heat/dist/leaflet-heat.js"></script>
+
+    <!-- ✅ Load Custom JavaScript Last -->
     <script src="script.js"></script>
 </body>
 </html>
