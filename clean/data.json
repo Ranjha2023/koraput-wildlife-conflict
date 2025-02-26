@@ -1,0 +1,164 @@
+{
+    "2012-13": [
+        {
+            "name": "Batriguda,Bhejapadar,\nBhanja Padar, Dumbaguda, Mujan ga, Killar, Punjisil, Tentuliguda & Batisilguda",
+            "lat": "18.916778 | 19.1596297 | 19.1642498 | 19.1506939 | 18.8124155 | 18.7963605 | 18.8519597 | 18.7926499 | 18.8733117",
+            "lng": "82.3774814 | 82.7568452 | 82.7314353 | 82.9436652 | 82.8417351 | 82.869795 | 82.8929755 | 82.3368502 | 82.483945",
+            "impact": "High"
+        },
+        {
+            "name": "Tamil,Malimundaguda,\nNaranga,Tentuliguda,Podagada,\nBatisilguda,routput,Duduraguda,Mujanga,Bhanjapadar,Killar",
+            "lat": "18.722821 | 18.8677847 | 18.8437597 | 18.7926499 | 18.8588182 | 18.8733117 | 19.1002963 | 18.8437607 | 18.8124155 | 19.536197 | 19.536197",
+            "lng": "82.0922939 | 82.8287453 | 82.8255652 | 82.3368502 | 82.8553141 | 82.483945 | 81.7412307 | 82.3555114 | 82.8417351 | 83.0629554 | 83.0629554",
+            "impact": "High"
+        },
+        {
+            "name": "Sukriguda,Nuaguda,Podagada,Duduraguda,Patamaliguda,Malitola,Bhanjapadar",
+            "lat": "18.7719747 | 19.1330648 | 18.8588182 | 18.8437607 | 18.9317315 | 18.8131347 | 19.3654805",
+            "lng": "82.8814802 | 82.8282602 | 82.8553141 | 82.3555114 | 82.3532414 | 82.8292702 | 82.9855015",
+            "impact": "High"
+        },
+        {
+            "name": "D Sujuli,Chindirijodi,Bhejiput,Sunajam,Banuaguda,Khoraguda",
+            "lat": "18.9603588 | 19.0061448 | 18.7972653 | 18.655057 | 18.8764147 | 18.771335",
+            "lng": "82.7800753 | 82.7868752 | 82.7075967 | 82.7128072 | 82.3938202 | 82.3999102",
+            "impact": "High"
+        },
+        {
+            "name": "Parjalimaka,Talallimka",
+            "lat": "19.1003388 | 19.1003388",
+            "lng": "81.8325914 | 81.8325914",
+            "impact": "High"
+        },
+        {
+            "name": "Lulla,Tengadasil,Kemili,Ghantraguda,Daldala,Haridaput",
+            "lat": "18.9768754 | 18.778644 | 18.9880004 | 18.7614005 | 18.8094371 | 18.9627139",
+            "lng": "82.8071201 | 82.7191873 | 82.78679 | 82.0713399 | 82.7108733 | 82.5225103",
+            "impact": "High"
+        }
+    ],
+    "2013-14": [
+        {
+            "name": "Malingijodi,Bhanjapadar,Routput,Jamukolaguda,Khadamaliguda",
+            "lat": "18.8006896 | 19.3654805 | 19.1002963 | 18.7613421 | 18.9701975",
+            "lng": "82.8234352 | 82.9855015 | 81.7412307 | 82.6994835 | 82.5111014",
+            "impact": "Medium"
+        },
+        {
+            "name": "Banuaguda,Sunajam,Nandigaon,Parajasujuli,Malibisali,Potamaliguda",
+            "lat": "18.8764147 | 18.8763419 | 18.5507389 | 18.8330422 | 18.8305943 | 19.1002963",
+            "lng": "82.3938202 | 82.2393055 | 82.8011152 | 82.7000089 | 82.6211745 | 81.7412307",
+            "impact": "High"
+        },
+        {
+            "name": "NuagudaNuaguda,Malitola,Pod agada,Rautput,Patam aliguda,Naranga,Bhej apadar,Batisilguda,Bat isil, Khajuriguda,Badag uda,Malingajodi,Deng ajaniguda,Mujanga,Su kuriguda & Killar",
+            "lat": "19.1330648 | 18.8131347 | 18.8588182 | 19.1002963 | 19.1996614 | 19.0839047 | 18.9767364 | 18.8733117 | 18.8137318 | 19.4738897 | 18.7419585 | 18.821287 | 18.8211422 | 18.8124155 | 18.7719747 | 18.7963605",
+            "lng": "82.8282602 | 82.8292702 | 82.8553141 | 81.7412307 | 82.9164971 | 82.8096051 | 82.5695085 | 82.483945 | 82.6898428 | 83.3376702 | 82.7684641 | 82.6283869 | 82.6283858 | 82.8417351 | 82.8814802 | 82.869795",
+            "impact": "High"
+        },
+        {
+            "name": "Naranga",
+            "lat": "18.8437597",
+            "lng": "82.8255652",
+            "impact": "High"
+        },
+        {
+            "name": "Jamakoliguda ,Dumuriguda, D.Sujuli ,J.Janiguda,Adamunda,Janiguda, Damajo di,Banuaguda,Nandigaon, Tamili, Chakarlip ut,Naranga, Rauta\nPut,Tentuliguda,Punjisil,Bhanjapadar,Ch akrajhola,Batisil Guda, Bheja\nPadar, Patamaliguda, Khadamaliguda",
+            "lat": "18.7063436 | 18.7560047 | 18.9603588 | 18.916357 | 18.6013374 | 19.0403439 | 18.7733472 | 18.8764147 | 18.5507389 | 18.8816239 | 18.9033198 | 18.8437597 | 18.7926499 | 19.0055447 | 19.536197 | 18.8060508 | 20.0635392 | 18.9317315 | 18.9701975",
+            "lng": "82.8447139 | 82.6873302 | 82.7800753 | 82.3975616 | 82.8129425 | 82.6777603 | 82.8896137 | 82.3938202 | 82.8011152 | 82.8216253 | 82.8226302 | 82.8255652 | 82.3368502 | 83.1028252 | 83.0629554 | 82.7137233 | 80.7716875 | 82.3532414 | 82.5111014",
+            "impact": "High"
+        },
+        {
+            "name": "Sorisopadar, Tengadasil ,Kemili , Lulla\nGoudaguda & lachhamani",
+            "lat": "18.9257147 | 18.778644 | 18.9880004 | 18.9220943",
+            "lng": "83.0640252 | 82.7191873 | 82.78679 | 83.0415559",
+            "impact": "Medium"
+        },
+        {
+            "name": "Phulajodi & Kanapadi",
+            "lat": "19.2955376 | 18.9325148",
+            "lng": "82.056061 | 83.0417602",
+            "impact": "Medium"
+        },
+        {
+            "name": "Kalama,Jokajodi & Bijaghati",
+            "lat": "18.8060508 | 20.3387668 | 18.7785227",
+            "lng": "82.7137233 | 81.7706652 | 83.0110619",
+            "impact": "Low"
+        }
+    ],
+    "2014-15": [
+        {
+            "name": "Patamaliguda, Rautput, Chapsil, Panasput, Padmapur,Musalmunda, Dumuriguda, Parajasuku,Maligjodi,Duduraguda,Paikpuki, Janiguda,Malimundaguda, Chakarliput,\nTamili,Banuaguda, Kharaguda, Garadamunda, Pat amaliguda, Keshabguda,A.Chandalguda,Adamun da & Badamundaguda",
+            "lat": "18.9317315 | 19.1002963 | 18.8828737 | 18.8824447 | 18.7836752 | 18.8135615 | 18.7560047 | 18.8535597 | 18.9834988 | 18.8437607 | 18.9107097 | 19.0403439 | 18.8677847 | 18.9033198 | 18.8816239 | 18.8764147 | 19.0070097 | 19.0069364 | 19.0067905 | 18.9569652 | 18.9063718 | 18.8137318 | 18.9184992",
+            "lng": "82.3532414 | 81.7412307 | 82.7298191 | 82.7141703 | 82.7963913 | 82.7067619 | 82.6873302 | 82.8395352 | 82.7205403 | 82.3555114 | 82.8189952 | 82.6777603 | 82.8287453 | 82.8226302 | 82.8216253 | 82.3938202 | 82.7591852 | 82.6046705 | 82.6046694 | 82.3970215 | 82.4826884 | 82.6898428 | 82.4184014",
+            "impact": "High"
+        },
+        {
+            "name": "Jhodipadar",
+            "lat": "19.1003388",
+            "lng": "81.8325914",
+            "impact": "Medium"
+        },
+        {
+            "name": "K.Bedapadar,Tengedasil & Khajuriguda",
+            "lat": "19.0042323 | 18.7583178 | 19.4738897",
+            "lng": "82.4779327 | 82.3348291 | 83.3376702",
+            "impact": "Medium"
+        },
+        {
+            "name": "Dumbaguda, Killar",
+            "lat": "19.1506939 | 18.7963605",
+            "lng": "82.9436652 | 82.869795",
+            "impact": "High"
+        },
+        {
+            "name": "Uppertarlaghat, Alachi, Tanakiaguda,K anyajhala, Pojhar Tandiput,Pipalput, Nandankhadag, Machaput,Durukagud a,Panchadapadar & Tanakasila",
+            "lat": "19.1002963 | 18.9018298 | 18.9441972 | 18.7788845 | 19.0053347 | 19.1002963 | 18.6991602 | 18.8435576 | 18.7669088 | 18.9167423 | 18.9165969",
+            "lng": "81.7412307 | 82.9739101 | 82.5959391 | 82.6068393 | 82.9353853 | 81.7412307 | 82.447267 | 82.7052805 | 82.7314753 | 82.6612405 | 82.6612394",
+            "impact": "High"
+        }
+    ],
+    "2015-16": [
+        {
+            "name": "Guradamunda,Malim undaguda,Dumurigud a, Keshabagudab & Dengajaniguda",
+            "lat": "19.3732422 | 18.821287 | 18.8137318 | 18.8008297 | 18.8008114",
+            "lng": "82.4422712 | 82.6283869 | 82.6898428 | 82.8322952 | 82.7601926",
+            "impact": "Medium"
+        },
+        {
+            "name": "Champapadar, Malidumuriguda, Amlabadi Colony Khadamaliguda, Patamaliguda, Purimunda, Malitola, Khadamaliguda, Ch akarajhola, Bhanjap adara, Nuaguda & Lukumari",
+            "lat": "19.0723038 | 18.9178617 | 18.7595877 | 18.9317315 | 18.8023297 | 18.8131347 | 18.9701975 | 18.7832832 | 19.6877586 | 19.1330648 | 18.8137318",
+            "lng": "82.7191803 | 82.5749765 | 82.7667009 | 82.3532414 | 82.8123552 | 82.8292702 | 82.5111014 | 82.7122854 | 81.2840838 | 82.8282602 | 82.6898428",
+            "impact": "High"
+        },
+        {
+            "name": "Tala Kesala",
+            "lat": "18.5586944",
+            "lng": "82.8482932",
+            "impact": "Medium"
+        }
+    ],
+    "2016-17": [
+        {
+            "name": "Kundar(Kakriguma)",
+            "lat": 18.9233527,
+            "lng": 83.0065155,
+            "impact": "Low"
+        }
+    ],
+    "2022-23": [
+        {
+            "name": "Talaguda",
+            "lat": 18.4071998,
+            "lng": 82.6352702,
+            "impact": "Low"
+        },
+        {
+            "name": "Talaguda",
+            "lat": 18.4071998,
+            "lng": 82.6352702,
+            "impact": "Low"
+        }
+    ]
+}

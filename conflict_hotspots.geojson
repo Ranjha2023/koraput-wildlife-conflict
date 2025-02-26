@@ -1,0 +1,2360 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.3774814,
+                    18.916778
+                ]
+            },
+            "properties": {
+                "year": "2012-13",
+                "name": "Batriguda,Bhejapadar,\nBhanja Padar, Dumbaguda, Mujan ga, Killar, Punjisil, Tentuliguda & Batisilguda",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.7568452,
+                    19.1596297
+                ]
+            },
+            "properties": {
+                "year": "2012-13",
+                "name": "Batriguda,Bhejapadar,\nBhanja Padar, Dumbaguda, Mujan ga, Killar, Punjisil, Tentuliguda & Batisilguda",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.7314353,
+                    19.1642498
+                ]
+            },
+            "properties": {
+                "year": "2012-13",
+                "name": "Batriguda,Bhejapadar,\nBhanja Padar, Dumbaguda, Mujan ga, Killar, Punjisil, Tentuliguda & Batisilguda",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.9436652,
+                    19.1506939
+                ]
+            },
+            "properties": {
+                "year": "2012-13",
+                "name": "Batriguda,Bhejapadar,\nBhanja Padar, Dumbaguda, Mujan ga, Killar, Punjisil, Tentuliguda & Batisilguda",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.8417351,
+                    18.8124155
+                ]
+            },
+            "properties": {
+                "year": "2012-13",
+                "name": "Batriguda,Bhejapadar,\nBhanja Padar, Dumbaguda, Mujan ga, Killar, Punjisil, Tentuliguda & Batisilguda",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.869795,
+                    18.7963605
+                ]
+            },
+            "properties": {
+                "year": "2012-13",
+                "name": "Batriguda,Bhejapadar,\nBhanja Padar, Dumbaguda, Mujan ga, Killar, Punjisil, Tentuliguda & Batisilguda",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.8929755,
+                    18.8519597
+                ]
+            },
+            "properties": {
+                "year": "2012-13",
+                "name": "Batriguda,Bhejapadar,\nBhanja Padar, Dumbaguda, Mujan ga, Killar, Punjisil, Tentuliguda & Batisilguda",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.3368502,
+                    18.7926499
+                ]
+            },
+            "properties": {
+                "year": "2012-13",
+                "name": "Batriguda,Bhejapadar,\nBhanja Padar, Dumbaguda, Mujan ga, Killar, Punjisil, Tentuliguda & Batisilguda",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.483945,
+                    18.8733117
+                ]
+            },
+            "properties": {
+                "year": "2012-13",
+                "name": "Batriguda,Bhejapadar,\nBhanja Padar, Dumbaguda, Mujan ga, Killar, Punjisil, Tentuliguda & Batisilguda",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.0922939,
+                    18.722821
+                ]
+            },
+            "properties": {
+                "year": "2012-13",
+                "name": "Tamil,Malimundaguda,\nNaranga,Tentuliguda,Podagada,\nBatisilguda,routput,Duduraguda,Mujanga,Bhanjapadar,Killar",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.8287453,
+                    18.8677847
+                ]
+            },
+            "properties": {
+                "year": "2012-13",
+                "name": "Tamil,Malimundaguda,\nNaranga,Tentuliguda,Podagada,\nBatisilguda,routput,Duduraguda,Mujanga,Bhanjapadar,Killar",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.8255652,
+                    18.8437597
+                ]
+            },
+            "properties": {
+                "year": "2012-13",
+                "name": "Tamil,Malimundaguda,\nNaranga,Tentuliguda,Podagada,\nBatisilguda,routput,Duduraguda,Mujanga,Bhanjapadar,Killar",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.3368502,
+                    18.7926499
+                ]
+            },
+            "properties": {
+                "year": "2012-13",
+                "name": "Tamil,Malimundaguda,\nNaranga,Tentuliguda,Podagada,\nBatisilguda,routput,Duduraguda,Mujanga,Bhanjapadar,Killar",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.8553141,
+                    18.8588182
+                ]
+            },
+            "properties": {
+                "year": "2012-13",
+                "name": "Tamil,Malimundaguda,\nNaranga,Tentuliguda,Podagada,\nBatisilguda,routput,Duduraguda,Mujanga,Bhanjapadar,Killar",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.483945,
+                    18.8733117
+                ]
+            },
+            "properties": {
+                "year": "2012-13",
+                "name": "Tamil,Malimundaguda,\nNaranga,Tentuliguda,Podagada,\nBatisilguda,routput,Duduraguda,Mujanga,Bhanjapadar,Killar",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.7412307,
+                    19.1002963
+                ]
+            },
+            "properties": {
+                "year": "2012-13",
+                "name": "Tamil,Malimundaguda,\nNaranga,Tentuliguda,Podagada,\nBatisilguda,routput,Duduraguda,Mujanga,Bhanjapadar,Killar",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.3555114,
+                    18.8437607
+                ]
+            },
+            "properties": {
+                "year": "2012-13",
+                "name": "Tamil,Malimundaguda,\nNaranga,Tentuliguda,Podagada,\nBatisilguda,routput,Duduraguda,Mujanga,Bhanjapadar,Killar",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.8417351,
+                    18.8124155
+                ]
+            },
+            "properties": {
+                "year": "2012-13",
+                "name": "Tamil,Malimundaguda,\nNaranga,Tentuliguda,Podagada,\nBatisilguda,routput,Duduraguda,Mujanga,Bhanjapadar,Killar",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.0629554,
+                    19.536197
+                ]
+            },
+            "properties": {
+                "year": "2012-13",
+                "name": "Tamil,Malimundaguda,\nNaranga,Tentuliguda,Podagada,\nBatisilguda,routput,Duduraguda,Mujanga,Bhanjapadar,Killar",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.0629554,
+                    19.536197
+                ]
+            },
+            "properties": {
+                "year": "2012-13",
+                "name": "Tamil,Malimundaguda,\nNaranga,Tentuliguda,Podagada,\nBatisilguda,routput,Duduraguda,Mujanga,Bhanjapadar,Killar",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.8814802,
+                    18.7719747
+                ]
+            },
+            "properties": {
+                "year": "2012-13",
+                "name": "Sukriguda,Nuaguda,Podagada,Duduraguda,Patamaliguda,Malitola,Bhanjapadar",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.8282602,
+                    19.1330648
+                ]
+            },
+            "properties": {
+                "year": "2012-13",
+                "name": "Sukriguda,Nuaguda,Podagada,Duduraguda,Patamaliguda,Malitola,Bhanjapadar",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.8553141,
+                    18.8588182
+                ]
+            },
+            "properties": {
+                "year": "2012-13",
+                "name": "Sukriguda,Nuaguda,Podagada,Duduraguda,Patamaliguda,Malitola,Bhanjapadar",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.3555114,
+                    18.8437607
+                ]
+            },
+            "properties": {
+                "year": "2012-13",
+                "name": "Sukriguda,Nuaguda,Podagada,Duduraguda,Patamaliguda,Malitola,Bhanjapadar",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.3532414,
+                    18.9317315
+                ]
+            },
+            "properties": {
+                "year": "2012-13",
+                "name": "Sukriguda,Nuaguda,Podagada,Duduraguda,Patamaliguda,Malitola,Bhanjapadar",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.8292702,
+                    18.8131347
+                ]
+            },
+            "properties": {
+                "year": "2012-13",
+                "name": "Sukriguda,Nuaguda,Podagada,Duduraguda,Patamaliguda,Malitola,Bhanjapadar",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.9855015,
+                    19.3654805
+                ]
+            },
+            "properties": {
+                "year": "2012-13",
+                "name": "Sukriguda,Nuaguda,Podagada,Duduraguda,Patamaliguda,Malitola,Bhanjapadar",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.7800753,
+                    18.9603588
+                ]
+            },
+            "properties": {
+                "year": "2012-13",
+                "name": "D Sujuli,Chindirijodi,Bhejiput,Sunajam,Banuaguda,Khoraguda",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.7868752,
+                    19.0061448
+                ]
+            },
+            "properties": {
+                "year": "2012-13",
+                "name": "D Sujuli,Chindirijodi,Bhejiput,Sunajam,Banuaguda,Khoraguda",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.7075967,
+                    18.7972653
+                ]
+            },
+            "properties": {
+                "year": "2012-13",
+                "name": "D Sujuli,Chindirijodi,Bhejiput,Sunajam,Banuaguda,Khoraguda",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.7128072,
+                    18.655057
+                ]
+            },
+            "properties": {
+                "year": "2012-13",
+                "name": "D Sujuli,Chindirijodi,Bhejiput,Sunajam,Banuaguda,Khoraguda",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.3938202,
+                    18.8764147
+                ]
+            },
+            "properties": {
+                "year": "2012-13",
+                "name": "D Sujuli,Chindirijodi,Bhejiput,Sunajam,Banuaguda,Khoraguda",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.3999102,
+                    18.771335
+                ]
+            },
+            "properties": {
+                "year": "2012-13",
+                "name": "D Sujuli,Chindirijodi,Bhejiput,Sunajam,Banuaguda,Khoraguda",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.8325914,
+                    19.1003388
+                ]
+            },
+            "properties": {
+                "year": "2012-13",
+                "name": "Parjalimaka,Talallimka",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.8325914,
+                    19.1003388
+                ]
+            },
+            "properties": {
+                "year": "2012-13",
+                "name": "Parjalimaka,Talallimka",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.8071201,
+                    18.9768754
+                ]
+            },
+            "properties": {
+                "year": "2012-13",
+                "name": "Lulla,Tengadasil,Kemili,Ghantraguda,Daldala,Haridaput",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.7191873,
+                    18.778644
+                ]
+            },
+            "properties": {
+                "year": "2012-13",
+                "name": "Lulla,Tengadasil,Kemili,Ghantraguda,Daldala,Haridaput",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.78679,
+                    18.9880004
+                ]
+            },
+            "properties": {
+                "year": "2012-13",
+                "name": "Lulla,Tengadasil,Kemili,Ghantraguda,Daldala,Haridaput",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.0713399,
+                    18.7614005
+                ]
+            },
+            "properties": {
+                "year": "2012-13",
+                "name": "Lulla,Tengadasil,Kemili,Ghantraguda,Daldala,Haridaput",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.7108733,
+                    18.8094371
+                ]
+            },
+            "properties": {
+                "year": "2012-13",
+                "name": "Lulla,Tengadasil,Kemili,Ghantraguda,Daldala,Haridaput",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.5225103,
+                    18.9627139
+                ]
+            },
+            "properties": {
+                "year": "2012-13",
+                "name": "Lulla,Tengadasil,Kemili,Ghantraguda,Daldala,Haridaput",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.8234352,
+                    18.8006896
+                ]
+            },
+            "properties": {
+                "year": "2013-14",
+                "name": "Malingijodi,Bhanjapadar,Routput,Jamukolaguda,Khadamaliguda",
+                "impact": "Medium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.9855015,
+                    19.3654805
+                ]
+            },
+            "properties": {
+                "year": "2013-14",
+                "name": "Malingijodi,Bhanjapadar,Routput,Jamukolaguda,Khadamaliguda",
+                "impact": "Medium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.7412307,
+                    19.1002963
+                ]
+            },
+            "properties": {
+                "year": "2013-14",
+                "name": "Malingijodi,Bhanjapadar,Routput,Jamukolaguda,Khadamaliguda",
+                "impact": "Medium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.6994835,
+                    18.7613421
+                ]
+            },
+            "properties": {
+                "year": "2013-14",
+                "name": "Malingijodi,Bhanjapadar,Routput,Jamukolaguda,Khadamaliguda",
+                "impact": "Medium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.5111014,
+                    18.9701975
+                ]
+            },
+            "properties": {
+                "year": "2013-14",
+                "name": "Malingijodi,Bhanjapadar,Routput,Jamukolaguda,Khadamaliguda",
+                "impact": "Medium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.3938202,
+                    18.8764147
+                ]
+            },
+            "properties": {
+                "year": "2013-14",
+                "name": "Banuaguda,Sunajam,Nandigaon,Parajasujuli,Malibisali,Potamaliguda",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.2393055,
+                    18.8763419
+                ]
+            },
+            "properties": {
+                "year": "2013-14",
+                "name": "Banuaguda,Sunajam,Nandigaon,Parajasujuli,Malibisali,Potamaliguda",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.8011152,
+                    18.5507389
+                ]
+            },
+            "properties": {
+                "year": "2013-14",
+                "name": "Banuaguda,Sunajam,Nandigaon,Parajasujuli,Malibisali,Potamaliguda",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.7000089,
+                    18.8330422
+                ]
+            },
+            "properties": {
+                "year": "2013-14",
+                "name": "Banuaguda,Sunajam,Nandigaon,Parajasujuli,Malibisali,Potamaliguda",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.6211745,
+                    18.8305943
+                ]
+            },
+            "properties": {
+                "year": "2013-14",
+                "name": "Banuaguda,Sunajam,Nandigaon,Parajasujuli,Malibisali,Potamaliguda",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.7412307,
+                    19.1002963
+                ]
+            },
+            "properties": {
+                "year": "2013-14",
+                "name": "Banuaguda,Sunajam,Nandigaon,Parajasujuli,Malibisali,Potamaliguda",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.8282602,
+                    19.1330648
+                ]
+            },
+            "properties": {
+                "year": "2013-14",
+                "name": "NuagudaNuaguda,Malitola,Pod agada,Rautput,Patam aliguda,Naranga,Bhej apadar,Batisilguda,Bat isil, Khajuriguda,Badag uda,Malingajodi,Deng ajaniguda,Mujanga,Su kuriguda & Killar",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.8292702,
+                    18.8131347
+                ]
+            },
+            "properties": {
+                "year": "2013-14",
+                "name": "NuagudaNuaguda,Malitola,Pod agada,Rautput,Patam aliguda,Naranga,Bhej apadar,Batisilguda,Bat isil, Khajuriguda,Badag uda,Malingajodi,Deng ajaniguda,Mujanga,Su kuriguda & Killar",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.8553141,
+                    18.8588182
+                ]
+            },
+            "properties": {
+                "year": "2013-14",
+                "name": "NuagudaNuaguda,Malitola,Pod agada,Rautput,Patam aliguda,Naranga,Bhej apadar,Batisilguda,Bat isil, Khajuriguda,Badag uda,Malingajodi,Deng ajaniguda,Mujanga,Su kuriguda & Killar",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.7412307,
+                    19.1002963
+                ]
+            },
+            "properties": {
+                "year": "2013-14",
+                "name": "NuagudaNuaguda,Malitola,Pod agada,Rautput,Patam aliguda,Naranga,Bhej apadar,Batisilguda,Bat isil, Khajuriguda,Badag uda,Malingajodi,Deng ajaniguda,Mujanga,Su kuriguda & Killar",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.9164971,
+                    19.1996614
+                ]
+            },
+            "properties": {
+                "year": "2013-14",
+                "name": "NuagudaNuaguda,Malitola,Pod agada,Rautput,Patam aliguda,Naranga,Bhej apadar,Batisilguda,Bat isil, Khajuriguda,Badag uda,Malingajodi,Deng ajaniguda,Mujanga,Su kuriguda & Killar",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.8096051,
+                    19.0839047
+                ]
+            },
+            "properties": {
+                "year": "2013-14",
+                "name": "NuagudaNuaguda,Malitola,Pod agada,Rautput,Patam aliguda,Naranga,Bhej apadar,Batisilguda,Bat isil, Khajuriguda,Badag uda,Malingajodi,Deng ajaniguda,Mujanga,Su kuriguda & Killar",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.5695085,
+                    18.9767364
+                ]
+            },
+            "properties": {
+                "year": "2013-14",
+                "name": "NuagudaNuaguda,Malitola,Pod agada,Rautput,Patam aliguda,Naranga,Bhej apadar,Batisilguda,Bat isil, Khajuriguda,Badag uda,Malingajodi,Deng ajaniguda,Mujanga,Su kuriguda & Killar",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.483945,
+                    18.8733117
+                ]
+            },
+            "properties": {
+                "year": "2013-14",
+                "name": "NuagudaNuaguda,Malitola,Pod agada,Rautput,Patam aliguda,Naranga,Bhej apadar,Batisilguda,Bat isil, Khajuriguda,Badag uda,Malingajodi,Deng ajaniguda,Mujanga,Su kuriguda & Killar",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.6898428,
+                    18.8137318
+                ]
+            },
+            "properties": {
+                "year": "2013-14",
+                "name": "NuagudaNuaguda,Malitola,Pod agada,Rautput,Patam aliguda,Naranga,Bhej apadar,Batisilguda,Bat isil, Khajuriguda,Badag uda,Malingajodi,Deng ajaniguda,Mujanga,Su kuriguda & Killar",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.3376702,
+                    19.4738897
+                ]
+            },
+            "properties": {
+                "year": "2013-14",
+                "name": "NuagudaNuaguda,Malitola,Pod agada,Rautput,Patam aliguda,Naranga,Bhej apadar,Batisilguda,Bat isil, Khajuriguda,Badag uda,Malingajodi,Deng ajaniguda,Mujanga,Su kuriguda & Killar",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.7684641,
+                    18.7419585
+                ]
+            },
+            "properties": {
+                "year": "2013-14",
+                "name": "NuagudaNuaguda,Malitola,Pod agada,Rautput,Patam aliguda,Naranga,Bhej apadar,Batisilguda,Bat isil, Khajuriguda,Badag uda,Malingajodi,Deng ajaniguda,Mujanga,Su kuriguda & Killar",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.6283869,
+                    18.821287
+                ]
+            },
+            "properties": {
+                "year": "2013-14",
+                "name": "NuagudaNuaguda,Malitola,Pod agada,Rautput,Patam aliguda,Naranga,Bhej apadar,Batisilguda,Bat isil, Khajuriguda,Badag uda,Malingajodi,Deng ajaniguda,Mujanga,Su kuriguda & Killar",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.6283858,
+                    18.8211422
+                ]
+            },
+            "properties": {
+                "year": "2013-14",
+                "name": "NuagudaNuaguda,Malitola,Pod agada,Rautput,Patam aliguda,Naranga,Bhej apadar,Batisilguda,Bat isil, Khajuriguda,Badag uda,Malingajodi,Deng ajaniguda,Mujanga,Su kuriguda & Killar",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.8417351,
+                    18.8124155
+                ]
+            },
+            "properties": {
+                "year": "2013-14",
+                "name": "NuagudaNuaguda,Malitola,Pod agada,Rautput,Patam aliguda,Naranga,Bhej apadar,Batisilguda,Bat isil, Khajuriguda,Badag uda,Malingajodi,Deng ajaniguda,Mujanga,Su kuriguda & Killar",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.8814802,
+                    18.7719747
+                ]
+            },
+            "properties": {
+                "year": "2013-14",
+                "name": "NuagudaNuaguda,Malitola,Pod agada,Rautput,Patam aliguda,Naranga,Bhej apadar,Batisilguda,Bat isil, Khajuriguda,Badag uda,Malingajodi,Deng ajaniguda,Mujanga,Su kuriguda & Killar",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.869795,
+                    18.7963605
+                ]
+            },
+            "properties": {
+                "year": "2013-14",
+                "name": "NuagudaNuaguda,Malitola,Pod agada,Rautput,Patam aliguda,Naranga,Bhej apadar,Batisilguda,Bat isil, Khajuriguda,Badag uda,Malingajodi,Deng ajaniguda,Mujanga,Su kuriguda & Killar",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.8255652,
+                    18.8437597
+                ]
+            },
+            "properties": {
+                "year": "2013-14",
+                "name": "Naranga",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.8447139,
+                    18.7063436
+                ]
+            },
+            "properties": {
+                "year": "2013-14",
+                "name": "Jamakoliguda ,Dumuriguda, D.Sujuli ,J.Janiguda,Adamunda,Janiguda, Damajo di,Banuaguda,Nandigaon, Tamili, Chakarlip ut,Naranga, Rauta\nPut,Tentuliguda,Punjisil,Bhanjapadar,Ch akrajhola,Batisil Guda, Bheja\nPadar, Patamaliguda, Khadamaliguda",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.6873302,
+                    18.7560047
+                ]
+            },
+            "properties": {
+                "year": "2013-14",
+                "name": "Jamakoliguda ,Dumuriguda, D.Sujuli ,J.Janiguda,Adamunda,Janiguda, Damajo di,Banuaguda,Nandigaon, Tamili, Chakarlip ut,Naranga, Rauta\nPut,Tentuliguda,Punjisil,Bhanjapadar,Ch akrajhola,Batisil Guda, Bheja\nPadar, Patamaliguda, Khadamaliguda",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.7800753,
+                    18.9603588
+                ]
+            },
+            "properties": {
+                "year": "2013-14",
+                "name": "Jamakoliguda ,Dumuriguda, D.Sujuli ,J.Janiguda,Adamunda,Janiguda, Damajo di,Banuaguda,Nandigaon, Tamili, Chakarlip ut,Naranga, Rauta\nPut,Tentuliguda,Punjisil,Bhanjapadar,Ch akrajhola,Batisil Guda, Bheja\nPadar, Patamaliguda, Khadamaliguda",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.3975616,
+                    18.916357
+                ]
+            },
+            "properties": {
+                "year": "2013-14",
+                "name": "Jamakoliguda ,Dumuriguda, D.Sujuli ,J.Janiguda,Adamunda,Janiguda, Damajo di,Banuaguda,Nandigaon, Tamili, Chakarlip ut,Naranga, Rauta\nPut,Tentuliguda,Punjisil,Bhanjapadar,Ch akrajhola,Batisil Guda, Bheja\nPadar, Patamaliguda, Khadamaliguda",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.8129425,
+                    18.6013374
+                ]
+            },
+            "properties": {
+                "year": "2013-14",
+                "name": "Jamakoliguda ,Dumuriguda, D.Sujuli ,J.Janiguda,Adamunda,Janiguda, Damajo di,Banuaguda,Nandigaon, Tamili, Chakarlip ut,Naranga, Rauta\nPut,Tentuliguda,Punjisil,Bhanjapadar,Ch akrajhola,Batisil Guda, Bheja\nPadar, Patamaliguda, Khadamaliguda",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.6777603,
+                    19.0403439
+                ]
+            },
+            "properties": {
+                "year": "2013-14",
+                "name": "Jamakoliguda ,Dumuriguda, D.Sujuli ,J.Janiguda,Adamunda,Janiguda, Damajo di,Banuaguda,Nandigaon, Tamili, Chakarlip ut,Naranga, Rauta\nPut,Tentuliguda,Punjisil,Bhanjapadar,Ch akrajhola,Batisil Guda, Bheja\nPadar, Patamaliguda, Khadamaliguda",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.8896137,
+                    18.7733472
+                ]
+            },
+            "properties": {
+                "year": "2013-14",
+                "name": "Jamakoliguda ,Dumuriguda, D.Sujuli ,J.Janiguda,Adamunda,Janiguda, Damajo di,Banuaguda,Nandigaon, Tamili, Chakarlip ut,Naranga, Rauta\nPut,Tentuliguda,Punjisil,Bhanjapadar,Ch akrajhola,Batisil Guda, Bheja\nPadar, Patamaliguda, Khadamaliguda",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.3938202,
+                    18.8764147
+                ]
+            },
+            "properties": {
+                "year": "2013-14",
+                "name": "Jamakoliguda ,Dumuriguda, D.Sujuli ,J.Janiguda,Adamunda,Janiguda, Damajo di,Banuaguda,Nandigaon, Tamili, Chakarlip ut,Naranga, Rauta\nPut,Tentuliguda,Punjisil,Bhanjapadar,Ch akrajhola,Batisil Guda, Bheja\nPadar, Patamaliguda, Khadamaliguda",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.8011152,
+                    18.5507389
+                ]
+            },
+            "properties": {
+                "year": "2013-14",
+                "name": "Jamakoliguda ,Dumuriguda, D.Sujuli ,J.Janiguda,Adamunda,Janiguda, Damajo di,Banuaguda,Nandigaon, Tamili, Chakarlip ut,Naranga, Rauta\nPut,Tentuliguda,Punjisil,Bhanjapadar,Ch akrajhola,Batisil Guda, Bheja\nPadar, Patamaliguda, Khadamaliguda",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.8216253,
+                    18.8816239
+                ]
+            },
+            "properties": {
+                "year": "2013-14",
+                "name": "Jamakoliguda ,Dumuriguda, D.Sujuli ,J.Janiguda,Adamunda,Janiguda, Damajo di,Banuaguda,Nandigaon, Tamili, Chakarlip ut,Naranga, Rauta\nPut,Tentuliguda,Punjisil,Bhanjapadar,Ch akrajhola,Batisil Guda, Bheja\nPadar, Patamaliguda, Khadamaliguda",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.8226302,
+                    18.9033198
+                ]
+            },
+            "properties": {
+                "year": "2013-14",
+                "name": "Jamakoliguda ,Dumuriguda, D.Sujuli ,J.Janiguda,Adamunda,Janiguda, Damajo di,Banuaguda,Nandigaon, Tamili, Chakarlip ut,Naranga, Rauta\nPut,Tentuliguda,Punjisil,Bhanjapadar,Ch akrajhola,Batisil Guda, Bheja\nPadar, Patamaliguda, Khadamaliguda",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.8255652,
+                    18.8437597
+                ]
+            },
+            "properties": {
+                "year": "2013-14",
+                "name": "Jamakoliguda ,Dumuriguda, D.Sujuli ,J.Janiguda,Adamunda,Janiguda, Damajo di,Banuaguda,Nandigaon, Tamili, Chakarlip ut,Naranga, Rauta\nPut,Tentuliguda,Punjisil,Bhanjapadar,Ch akrajhola,Batisil Guda, Bheja\nPadar, Patamaliguda, Khadamaliguda",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.3368502,
+                    18.7926499
+                ]
+            },
+            "properties": {
+                "year": "2013-14",
+                "name": "Jamakoliguda ,Dumuriguda, D.Sujuli ,J.Janiguda,Adamunda,Janiguda, Damajo di,Banuaguda,Nandigaon, Tamili, Chakarlip ut,Naranga, Rauta\nPut,Tentuliguda,Punjisil,Bhanjapadar,Ch akrajhola,Batisil Guda, Bheja\nPadar, Patamaliguda, Khadamaliguda",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.1028252,
+                    19.0055447
+                ]
+            },
+            "properties": {
+                "year": "2013-14",
+                "name": "Jamakoliguda ,Dumuriguda, D.Sujuli ,J.Janiguda,Adamunda,Janiguda, Damajo di,Banuaguda,Nandigaon, Tamili, Chakarlip ut,Naranga, Rauta\nPut,Tentuliguda,Punjisil,Bhanjapadar,Ch akrajhola,Batisil Guda, Bheja\nPadar, Patamaliguda, Khadamaliguda",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.0629554,
+                    19.536197
+                ]
+            },
+            "properties": {
+                "year": "2013-14",
+                "name": "Jamakoliguda ,Dumuriguda, D.Sujuli ,J.Janiguda,Adamunda,Janiguda, Damajo di,Banuaguda,Nandigaon, Tamili, Chakarlip ut,Naranga, Rauta\nPut,Tentuliguda,Punjisil,Bhanjapadar,Ch akrajhola,Batisil Guda, Bheja\nPadar, Patamaliguda, Khadamaliguda",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.7137233,
+                    18.8060508
+                ]
+            },
+            "properties": {
+                "year": "2013-14",
+                "name": "Jamakoliguda ,Dumuriguda, D.Sujuli ,J.Janiguda,Adamunda,Janiguda, Damajo di,Banuaguda,Nandigaon, Tamili, Chakarlip ut,Naranga, Rauta\nPut,Tentuliguda,Punjisil,Bhanjapadar,Ch akrajhola,Batisil Guda, Bheja\nPadar, Patamaliguda, Khadamaliguda",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.7716875,
+                    20.0635392
+                ]
+            },
+            "properties": {
+                "year": "2013-14",
+                "name": "Jamakoliguda ,Dumuriguda, D.Sujuli ,J.Janiguda,Adamunda,Janiguda, Damajo di,Banuaguda,Nandigaon, Tamili, Chakarlip ut,Naranga, Rauta\nPut,Tentuliguda,Punjisil,Bhanjapadar,Ch akrajhola,Batisil Guda, Bheja\nPadar, Patamaliguda, Khadamaliguda",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.3532414,
+                    18.9317315
+                ]
+            },
+            "properties": {
+                "year": "2013-14",
+                "name": "Jamakoliguda ,Dumuriguda, D.Sujuli ,J.Janiguda,Adamunda,Janiguda, Damajo di,Banuaguda,Nandigaon, Tamili, Chakarlip ut,Naranga, Rauta\nPut,Tentuliguda,Punjisil,Bhanjapadar,Ch akrajhola,Batisil Guda, Bheja\nPadar, Patamaliguda, Khadamaliguda",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.5111014,
+                    18.9701975
+                ]
+            },
+            "properties": {
+                "year": "2013-14",
+                "name": "Jamakoliguda ,Dumuriguda, D.Sujuli ,J.Janiguda,Adamunda,Janiguda, Damajo di,Banuaguda,Nandigaon, Tamili, Chakarlip ut,Naranga, Rauta\nPut,Tentuliguda,Punjisil,Bhanjapadar,Ch akrajhola,Batisil Guda, Bheja\nPadar, Patamaliguda, Khadamaliguda",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.0640252,
+                    18.9257147
+                ]
+            },
+            "properties": {
+                "year": "2013-14",
+                "name": "Sorisopadar, Tengadasil ,Kemili , Lulla\nGoudaguda & lachhamani",
+                "impact": "Medium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.7191873,
+                    18.778644
+                ]
+            },
+            "properties": {
+                "year": "2013-14",
+                "name": "Sorisopadar, Tengadasil ,Kemili , Lulla\nGoudaguda & lachhamani",
+                "impact": "Medium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.78679,
+                    18.9880004
+                ]
+            },
+            "properties": {
+                "year": "2013-14",
+                "name": "Sorisopadar, Tengadasil ,Kemili , Lulla\nGoudaguda & lachhamani",
+                "impact": "Medium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.0415559,
+                    18.9220943
+                ]
+            },
+            "properties": {
+                "year": "2013-14",
+                "name": "Sorisopadar, Tengadasil ,Kemili , Lulla\nGoudaguda & lachhamani",
+                "impact": "Medium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.056061,
+                    19.2955376
+                ]
+            },
+            "properties": {
+                "year": "2013-14",
+                "name": "Phulajodi & Kanapadi",
+                "impact": "Medium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.0417602,
+                    18.9325148
+                ]
+            },
+            "properties": {
+                "year": "2013-14",
+                "name": "Phulajodi & Kanapadi",
+                "impact": "Medium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.7137233,
+                    18.8060508
+                ]
+            },
+            "properties": {
+                "year": "2013-14",
+                "name": "Kalama,Jokajodi & Bijaghati",
+                "impact": "Low"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.7706652,
+                    20.3387668
+                ]
+            },
+            "properties": {
+                "year": "2013-14",
+                "name": "Kalama,Jokajodi & Bijaghati",
+                "impact": "Low"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.0110619,
+                    18.7785227
+                ]
+            },
+            "properties": {
+                "year": "2013-14",
+                "name": "Kalama,Jokajodi & Bijaghati",
+                "impact": "Low"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.3532414,
+                    18.9317315
+                ]
+            },
+            "properties": {
+                "year": "2014-15",
+                "name": "Patamaliguda, Rautput, Chapsil, Panasput, Padmapur,Musalmunda, Dumuriguda, Parajasuku,Maligjodi,Duduraguda,Paikpuki, Janiguda,Malimundaguda, Chakarliput,\nTamili,Banuaguda, Kharaguda, Garadamunda, Pat amaliguda, Keshabguda,A.Chandalguda,Adamun da & Badamundaguda",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.7412307,
+                    19.1002963
+                ]
+            },
+            "properties": {
+                "year": "2014-15",
+                "name": "Patamaliguda, Rautput, Chapsil, Panasput, Padmapur,Musalmunda, Dumuriguda, Parajasuku,Maligjodi,Duduraguda,Paikpuki, Janiguda,Malimundaguda, Chakarliput,\nTamili,Banuaguda, Kharaguda, Garadamunda, Pat amaliguda, Keshabguda,A.Chandalguda,Adamun da & Badamundaguda",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.7298191,
+                    18.8828737
+                ]
+            },
+            "properties": {
+                "year": "2014-15",
+                "name": "Patamaliguda, Rautput, Chapsil, Panasput, Padmapur,Musalmunda, Dumuriguda, Parajasuku,Maligjodi,Duduraguda,Paikpuki, Janiguda,Malimundaguda, Chakarliput,\nTamili,Banuaguda, Kharaguda, Garadamunda, Pat amaliguda, Keshabguda,A.Chandalguda,Adamun da & Badamundaguda",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.7141703,
+                    18.8824447
+                ]
+            },
+            "properties": {
+                "year": "2014-15",
+                "name": "Patamaliguda, Rautput, Chapsil, Panasput, Padmapur,Musalmunda, Dumuriguda, Parajasuku,Maligjodi,Duduraguda,Paikpuki, Janiguda,Malimundaguda, Chakarliput,\nTamili,Banuaguda, Kharaguda, Garadamunda, Pat amaliguda, Keshabguda,A.Chandalguda,Adamun da & Badamundaguda",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.7963913,
+                    18.7836752
+                ]
+            },
+            "properties": {
+                "year": "2014-15",
+                "name": "Patamaliguda, Rautput, Chapsil, Panasput, Padmapur,Musalmunda, Dumuriguda, Parajasuku,Maligjodi,Duduraguda,Paikpuki, Janiguda,Malimundaguda, Chakarliput,\nTamili,Banuaguda, Kharaguda, Garadamunda, Pat amaliguda, Keshabguda,A.Chandalguda,Adamun da & Badamundaguda",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.7067619,
+                    18.8135615
+                ]
+            },
+            "properties": {
+                "year": "2014-15",
+                "name": "Patamaliguda, Rautput, Chapsil, Panasput, Padmapur,Musalmunda, Dumuriguda, Parajasuku,Maligjodi,Duduraguda,Paikpuki, Janiguda,Malimundaguda, Chakarliput,\nTamili,Banuaguda, Kharaguda, Garadamunda, Pat amaliguda, Keshabguda,A.Chandalguda,Adamun da & Badamundaguda",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.6873302,
+                    18.7560047
+                ]
+            },
+            "properties": {
+                "year": "2014-15",
+                "name": "Patamaliguda, Rautput, Chapsil, Panasput, Padmapur,Musalmunda, Dumuriguda, Parajasuku,Maligjodi,Duduraguda,Paikpuki, Janiguda,Malimundaguda, Chakarliput,\nTamili,Banuaguda, Kharaguda, Garadamunda, Pat amaliguda, Keshabguda,A.Chandalguda,Adamun da & Badamundaguda",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.8395352,
+                    18.8535597
+                ]
+            },
+            "properties": {
+                "year": "2014-15",
+                "name": "Patamaliguda, Rautput, Chapsil, Panasput, Padmapur,Musalmunda, Dumuriguda, Parajasuku,Maligjodi,Duduraguda,Paikpuki, Janiguda,Malimundaguda, Chakarliput,\nTamili,Banuaguda, Kharaguda, Garadamunda, Pat amaliguda, Keshabguda,A.Chandalguda,Adamun da & Badamundaguda",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.7205403,
+                    18.9834988
+                ]
+            },
+            "properties": {
+                "year": "2014-15",
+                "name": "Patamaliguda, Rautput, Chapsil, Panasput, Padmapur,Musalmunda, Dumuriguda, Parajasuku,Maligjodi,Duduraguda,Paikpuki, Janiguda,Malimundaguda, Chakarliput,\nTamili,Banuaguda, Kharaguda, Garadamunda, Pat amaliguda, Keshabguda,A.Chandalguda,Adamun da & Badamundaguda",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.3555114,
+                    18.8437607
+                ]
+            },
+            "properties": {
+                "year": "2014-15",
+                "name": "Patamaliguda, Rautput, Chapsil, Panasput, Padmapur,Musalmunda, Dumuriguda, Parajasuku,Maligjodi,Duduraguda,Paikpuki, Janiguda,Malimundaguda, Chakarliput,\nTamili,Banuaguda, Kharaguda, Garadamunda, Pat amaliguda, Keshabguda,A.Chandalguda,Adamun da & Badamundaguda",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.8189952,
+                    18.9107097
+                ]
+            },
+            "properties": {
+                "year": "2014-15",
+                "name": "Patamaliguda, Rautput, Chapsil, Panasput, Padmapur,Musalmunda, Dumuriguda, Parajasuku,Maligjodi,Duduraguda,Paikpuki, Janiguda,Malimundaguda, Chakarliput,\nTamili,Banuaguda, Kharaguda, Garadamunda, Pat amaliguda, Keshabguda,A.Chandalguda,Adamun da & Badamundaguda",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.6777603,
+                    19.0403439
+                ]
+            },
+            "properties": {
+                "year": "2014-15",
+                "name": "Patamaliguda, Rautput, Chapsil, Panasput, Padmapur,Musalmunda, Dumuriguda, Parajasuku,Maligjodi,Duduraguda,Paikpuki, Janiguda,Malimundaguda, Chakarliput,\nTamili,Banuaguda, Kharaguda, Garadamunda, Pat amaliguda, Keshabguda,A.Chandalguda,Adamun da & Badamundaguda",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.8287453,
+                    18.8677847
+                ]
+            },
+            "properties": {
+                "year": "2014-15",
+                "name": "Patamaliguda, Rautput, Chapsil, Panasput, Padmapur,Musalmunda, Dumuriguda, Parajasuku,Maligjodi,Duduraguda,Paikpuki, Janiguda,Malimundaguda, Chakarliput,\nTamili,Banuaguda, Kharaguda, Garadamunda, Pat amaliguda, Keshabguda,A.Chandalguda,Adamun da & Badamundaguda",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.8226302,
+                    18.9033198
+                ]
+            },
+            "properties": {
+                "year": "2014-15",
+                "name": "Patamaliguda, Rautput, Chapsil, Panasput, Padmapur,Musalmunda, Dumuriguda, Parajasuku,Maligjodi,Duduraguda,Paikpuki, Janiguda,Malimundaguda, Chakarliput,\nTamili,Banuaguda, Kharaguda, Garadamunda, Pat amaliguda, Keshabguda,A.Chandalguda,Adamun da & Badamundaguda",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.8216253,
+                    18.8816239
+                ]
+            },
+            "properties": {
+                "year": "2014-15",
+                "name": "Patamaliguda, Rautput, Chapsil, Panasput, Padmapur,Musalmunda, Dumuriguda, Parajasuku,Maligjodi,Duduraguda,Paikpuki, Janiguda,Malimundaguda, Chakarliput,\nTamili,Banuaguda, Kharaguda, Garadamunda, Pat amaliguda, Keshabguda,A.Chandalguda,Adamun da & Badamundaguda",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.3938202,
+                    18.8764147
+                ]
+            },
+            "properties": {
+                "year": "2014-15",
+                "name": "Patamaliguda, Rautput, Chapsil, Panasput, Padmapur,Musalmunda, Dumuriguda, Parajasuku,Maligjodi,Duduraguda,Paikpuki, Janiguda,Malimundaguda, Chakarliput,\nTamili,Banuaguda, Kharaguda, Garadamunda, Pat amaliguda, Keshabguda,A.Chandalguda,Adamun da & Badamundaguda",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.7591852,
+                    19.0070097
+                ]
+            },
+            "properties": {
+                "year": "2014-15",
+                "name": "Patamaliguda, Rautput, Chapsil, Panasput, Padmapur,Musalmunda, Dumuriguda, Parajasuku,Maligjodi,Duduraguda,Paikpuki, Janiguda,Malimundaguda, Chakarliput,\nTamili,Banuaguda, Kharaguda, Garadamunda, Pat amaliguda, Keshabguda,A.Chandalguda,Adamun da & Badamundaguda",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.6046705,
+                    19.0069364
+                ]
+            },
+            "properties": {
+                "year": "2014-15",
+                "name": "Patamaliguda, Rautput, Chapsil, Panasput, Padmapur,Musalmunda, Dumuriguda, Parajasuku,Maligjodi,Duduraguda,Paikpuki, Janiguda,Malimundaguda, Chakarliput,\nTamili,Banuaguda, Kharaguda, Garadamunda, Pat amaliguda, Keshabguda,A.Chandalguda,Adamun da & Badamundaguda",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.6046694,
+                    19.0067905
+                ]
+            },
+            "properties": {
+                "year": "2014-15",
+                "name": "Patamaliguda, Rautput, Chapsil, Panasput, Padmapur,Musalmunda, Dumuriguda, Parajasuku,Maligjodi,Duduraguda,Paikpuki, Janiguda,Malimundaguda, Chakarliput,\nTamili,Banuaguda, Kharaguda, Garadamunda, Pat amaliguda, Keshabguda,A.Chandalguda,Adamun da & Badamundaguda",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.3970215,
+                    18.9569652
+                ]
+            },
+            "properties": {
+                "year": "2014-15",
+                "name": "Patamaliguda, Rautput, Chapsil, Panasput, Padmapur,Musalmunda, Dumuriguda, Parajasuku,Maligjodi,Duduraguda,Paikpuki, Janiguda,Malimundaguda, Chakarliput,\nTamili,Banuaguda, Kharaguda, Garadamunda, Pat amaliguda, Keshabguda,A.Chandalguda,Adamun da & Badamundaguda",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.4826884,
+                    18.9063718
+                ]
+            },
+            "properties": {
+                "year": "2014-15",
+                "name": "Patamaliguda, Rautput, Chapsil, Panasput, Padmapur,Musalmunda, Dumuriguda, Parajasuku,Maligjodi,Duduraguda,Paikpuki, Janiguda,Malimundaguda, Chakarliput,\nTamili,Banuaguda, Kharaguda, Garadamunda, Pat amaliguda, Keshabguda,A.Chandalguda,Adamun da & Badamundaguda",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.6898428,
+                    18.8137318
+                ]
+            },
+            "properties": {
+                "year": "2014-15",
+                "name": "Patamaliguda, Rautput, Chapsil, Panasput, Padmapur,Musalmunda, Dumuriguda, Parajasuku,Maligjodi,Duduraguda,Paikpuki, Janiguda,Malimundaguda, Chakarliput,\nTamili,Banuaguda, Kharaguda, Garadamunda, Pat amaliguda, Keshabguda,A.Chandalguda,Adamun da & Badamundaguda",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.4184014,
+                    18.9184992
+                ]
+            },
+            "properties": {
+                "year": "2014-15",
+                "name": "Patamaliguda, Rautput, Chapsil, Panasput, Padmapur,Musalmunda, Dumuriguda, Parajasuku,Maligjodi,Duduraguda,Paikpuki, Janiguda,Malimundaguda, Chakarliput,\nTamili,Banuaguda, Kharaguda, Garadamunda, Pat amaliguda, Keshabguda,A.Chandalguda,Adamun da & Badamundaguda",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.8325914,
+                    19.1003388
+                ]
+            },
+            "properties": {
+                "year": "2014-15",
+                "name": "Jhodipadar",
+                "impact": "Medium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.4779327,
+                    19.0042323
+                ]
+            },
+            "properties": {
+                "year": "2014-15",
+                "name": "K.Bedapadar,Tengedasil & Khajuriguda",
+                "impact": "Medium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.3348291,
+                    18.7583178
+                ]
+            },
+            "properties": {
+                "year": "2014-15",
+                "name": "K.Bedapadar,Tengedasil & Khajuriguda",
+                "impact": "Medium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.3376702,
+                    19.4738897
+                ]
+            },
+            "properties": {
+                "year": "2014-15",
+                "name": "K.Bedapadar,Tengedasil & Khajuriguda",
+                "impact": "Medium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.9436652,
+                    19.1506939
+                ]
+            },
+            "properties": {
+                "year": "2014-15",
+                "name": "Dumbaguda, Killar",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.869795,
+                    18.7963605
+                ]
+            },
+            "properties": {
+                "year": "2014-15",
+                "name": "Dumbaguda, Killar",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.7412307,
+                    19.1002963
+                ]
+            },
+            "properties": {
+                "year": "2014-15",
+                "name": "Uppertarlaghat, Alachi, Tanakiaguda,K anyajhala, Pojhar Tandiput,Pipalput, Nandankhadag, Machaput,Durukagud a,Panchadapadar & Tanakasila",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.9739101,
+                    18.9018298
+                ]
+            },
+            "properties": {
+                "year": "2014-15",
+                "name": "Uppertarlaghat, Alachi, Tanakiaguda,K anyajhala, Pojhar Tandiput,Pipalput, Nandankhadag, Machaput,Durukagud a,Panchadapadar & Tanakasila",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.5959391,
+                    18.9441972
+                ]
+            },
+            "properties": {
+                "year": "2014-15",
+                "name": "Uppertarlaghat, Alachi, Tanakiaguda,K anyajhala, Pojhar Tandiput,Pipalput, Nandankhadag, Machaput,Durukagud a,Panchadapadar & Tanakasila",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.6068393,
+                    18.7788845
+                ]
+            },
+            "properties": {
+                "year": "2014-15",
+                "name": "Uppertarlaghat, Alachi, Tanakiaguda,K anyajhala, Pojhar Tandiput,Pipalput, Nandankhadag, Machaput,Durukagud a,Panchadapadar & Tanakasila",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.9353853,
+                    19.0053347
+                ]
+            },
+            "properties": {
+                "year": "2014-15",
+                "name": "Uppertarlaghat, Alachi, Tanakiaguda,K anyajhala, Pojhar Tandiput,Pipalput, Nandankhadag, Machaput,Durukagud a,Panchadapadar & Tanakasila",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.7412307,
+                    19.1002963
+                ]
+            },
+            "properties": {
+                "year": "2014-15",
+                "name": "Uppertarlaghat, Alachi, Tanakiaguda,K anyajhala, Pojhar Tandiput,Pipalput, Nandankhadag, Machaput,Durukagud a,Panchadapadar & Tanakasila",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.447267,
+                    18.6991602
+                ]
+            },
+            "properties": {
+                "year": "2014-15",
+                "name": "Uppertarlaghat, Alachi, Tanakiaguda,K anyajhala, Pojhar Tandiput,Pipalput, Nandankhadag, Machaput,Durukagud a,Panchadapadar & Tanakasila",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.7052805,
+                    18.8435576
+                ]
+            },
+            "properties": {
+                "year": "2014-15",
+                "name": "Uppertarlaghat, Alachi, Tanakiaguda,K anyajhala, Pojhar Tandiput,Pipalput, Nandankhadag, Machaput,Durukagud a,Panchadapadar & Tanakasila",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.7314753,
+                    18.7669088
+                ]
+            },
+            "properties": {
+                "year": "2014-15",
+                "name": "Uppertarlaghat, Alachi, Tanakiaguda,K anyajhala, Pojhar Tandiput,Pipalput, Nandankhadag, Machaput,Durukagud a,Panchadapadar & Tanakasila",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.6612405,
+                    18.9167423
+                ]
+            },
+            "properties": {
+                "year": "2014-15",
+                "name": "Uppertarlaghat, Alachi, Tanakiaguda,K anyajhala, Pojhar Tandiput,Pipalput, Nandankhadag, Machaput,Durukagud a,Panchadapadar & Tanakasila",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.6612394,
+                    18.9165969
+                ]
+            },
+            "properties": {
+                "year": "2014-15",
+                "name": "Uppertarlaghat, Alachi, Tanakiaguda,K anyajhala, Pojhar Tandiput,Pipalput, Nandankhadag, Machaput,Durukagud a,Panchadapadar & Tanakasila",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.4422712,
+                    19.3732422
+                ]
+            },
+            "properties": {
+                "year": "2015-16",
+                "name": "Guradamunda,Malim undaguda,Dumurigud a, Keshabagudab & Dengajaniguda",
+                "impact": "Medium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.6283869,
+                    18.821287
+                ]
+            },
+            "properties": {
+                "year": "2015-16",
+                "name": "Guradamunda,Malim undaguda,Dumurigud a, Keshabagudab & Dengajaniguda",
+                "impact": "Medium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.6898428,
+                    18.8137318
+                ]
+            },
+            "properties": {
+                "year": "2015-16",
+                "name": "Guradamunda,Malim undaguda,Dumurigud a, Keshabagudab & Dengajaniguda",
+                "impact": "Medium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.8322952,
+                    18.8008297
+                ]
+            },
+            "properties": {
+                "year": "2015-16",
+                "name": "Guradamunda,Malim undaguda,Dumurigud a, Keshabagudab & Dengajaniguda",
+                "impact": "Medium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.7601926,
+                    18.8008114
+                ]
+            },
+            "properties": {
+                "year": "2015-16",
+                "name": "Guradamunda,Malim undaguda,Dumurigud a, Keshabagudab & Dengajaniguda",
+                "impact": "Medium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.7191803,
+                    19.0723038
+                ]
+            },
+            "properties": {
+                "year": "2015-16",
+                "name": "Champapadar, Malidumuriguda, Amlabadi Colony Khadamaliguda, Patamaliguda, Purimunda, Malitola, Khadamaliguda, Ch akarajhola, Bhanjap adara, Nuaguda & Lukumari",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.5749765,
+                    18.9178617
+                ]
+            },
+            "properties": {
+                "year": "2015-16",
+                "name": "Champapadar, Malidumuriguda, Amlabadi Colony Khadamaliguda, Patamaliguda, Purimunda, Malitola, Khadamaliguda, Ch akarajhola, Bhanjap adara, Nuaguda & Lukumari",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.7667009,
+                    18.7595877
+                ]
+            },
+            "properties": {
+                "year": "2015-16",
+                "name": "Champapadar, Malidumuriguda, Amlabadi Colony Khadamaliguda, Patamaliguda, Purimunda, Malitola, Khadamaliguda, Ch akarajhola, Bhanjap adara, Nuaguda & Lukumari",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.3532414,
+                    18.9317315
+                ]
+            },
+            "properties": {
+                "year": "2015-16",
+                "name": "Champapadar, Malidumuriguda, Amlabadi Colony Khadamaliguda, Patamaliguda, Purimunda, Malitola, Khadamaliguda, Ch akarajhola, Bhanjap adara, Nuaguda & Lukumari",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.8123552,
+                    18.8023297
+                ]
+            },
+            "properties": {
+                "year": "2015-16",
+                "name": "Champapadar, Malidumuriguda, Amlabadi Colony Khadamaliguda, Patamaliguda, Purimunda, Malitola, Khadamaliguda, Ch akarajhola, Bhanjap adara, Nuaguda & Lukumari",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.8292702,
+                    18.8131347
+                ]
+            },
+            "properties": {
+                "year": "2015-16",
+                "name": "Champapadar, Malidumuriguda, Amlabadi Colony Khadamaliguda, Patamaliguda, Purimunda, Malitola, Khadamaliguda, Ch akarajhola, Bhanjap adara, Nuaguda & Lukumari",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.5111014,
+                    18.9701975
+                ]
+            },
+            "properties": {
+                "year": "2015-16",
+                "name": "Champapadar, Malidumuriguda, Amlabadi Colony Khadamaliguda, Patamaliguda, Purimunda, Malitola, Khadamaliguda, Ch akarajhola, Bhanjap adara, Nuaguda & Lukumari",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.7122854,
+                    18.7832832
+                ]
+            },
+            "properties": {
+                "year": "2015-16",
+                "name": "Champapadar, Malidumuriguda, Amlabadi Colony Khadamaliguda, Patamaliguda, Purimunda, Malitola, Khadamaliguda, Ch akarajhola, Bhanjap adara, Nuaguda & Lukumari",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.2840838,
+                    19.6877586
+                ]
+            },
+            "properties": {
+                "year": "2015-16",
+                "name": "Champapadar, Malidumuriguda, Amlabadi Colony Khadamaliguda, Patamaliguda, Purimunda, Malitola, Khadamaliguda, Ch akarajhola, Bhanjap adara, Nuaguda & Lukumari",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.8282602,
+                    19.1330648
+                ]
+            },
+            "properties": {
+                "year": "2015-16",
+                "name": "Champapadar, Malidumuriguda, Amlabadi Colony Khadamaliguda, Patamaliguda, Purimunda, Malitola, Khadamaliguda, Ch akarajhola, Bhanjap adara, Nuaguda & Lukumari",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.6898428,
+                    18.8137318
+                ]
+            },
+            "properties": {
+                "year": "2015-16",
+                "name": "Champapadar, Malidumuriguda, Amlabadi Colony Khadamaliguda, Patamaliguda, Purimunda, Malitola, Khadamaliguda, Ch akarajhola, Bhanjap adara, Nuaguda & Lukumari",
+                "impact": "High"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.8482932,
+                    18.5586944
+                ]
+            },
+            "properties": {
+                "year": "2015-16",
+                "name": "Tala Kesala",
+                "impact": "Medium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.0065155,
+                    18.9233527
+                ]
+            },
+            "properties": {
+                "year": "2016-17",
+                "name": "Kundar(Kakriguma)",
+                "impact": "Low"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.6352702,
+                    18.4071998
+                ]
+            },
+            "properties": {
+                "year": "2022-23",
+                "name": "Talaguda",
+                "impact": "Low"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.6352702,
+                    18.4071998
+                ]
+            },
+            "properties": {
+                "year": "2022-23",
+                "name": "Talaguda",
+                "impact": "Low"
+            }
+        }
+    ]
+}
